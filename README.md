@@ -1,4 +1,4 @@
-# Stellar Proof-of-Attendance test (SPA)
+# Stellar Proof-of-Attendance (SPA)
 
 This project is a decentralized application (dApp) developed as a final project for the **Stellar Blockchain Program**. It allows users to register their attendance for events securely on the Stellar network using Soroban smart contracts.
 
